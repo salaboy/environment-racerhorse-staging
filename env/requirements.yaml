@@ -1,7 +1,4 @@
 dependencies:
-- name: conference-aggregator
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
 - name: conference-sponsors
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.6
